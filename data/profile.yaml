@@ -1,0 +1,88 @@
+# 机器可读档案（不含隐私信息）
+# 由 profile/*.md 汇总而来；修改时请同步两处。
+
+name: 冯勇瑞
+name_en: Feng Yongrui
+age: 20            # 2025-09 简历口径
+age_note: 2026-11 约 21 岁，待确认
+gender: 男
+hometown: 河北沧州
+location: 河北保定
+languages: [zh-CN, en]
+certificates: [CET-6]
+
+education:
+  school: 河北大学
+  major: 生物信息
+  degree: 本科
+  start: 2024-09
+  expected_graduation: 2028-06
+  current_year: 大三
+
+job_target: [数据分析, 科研助理]
+
+skills:
+  expert:
+    - R
+    - scRNA-seq 分析
+    - Seurat
+    - 数据清洗
+    - 科研写作
+  intermediate:
+    - Python
+    - Linux/WSL
+    - Git
+    - 生物统计
+    - 转录组分析
+  ai_assisted:
+    - React
+    - FastAPI
+    - Docker
+    - Node.js
+
+research:
+  - id: tmem16a-emt
+    role: 队长
+    competition: 第十一届全国大学生生命科学竞赛
+    award: 国家级二等奖（保底）
+    period: 2025-09/2026-08
+    topic: TMEM16A-EMT 轴的单细胞证据、蛋白相互作用验证及肺腺癌辅助诊断与药物敏感性推断集成
+  - id: magpie-habitat
+    role: 队长
+    competition: 第十届全国大学生生命科学竞赛
+    award: 河北省三等奖
+    period: 2024-09/2025-06
+    topic: 城市化对喜鹊巢址选择的影响及其适宜生境分析
+  - id: cell-biology-platform
+    role: 协助教师
+    topic: 智慧细胞生物学教学平台
+    stack: [React, FastAPI, Docker]
+
+publications:
+  - title: How nestlings of Oriental Reed Warbler respond to adult alarm calls
+    journal: Avian Research
+    year: 2025
+    volume: 16
+    issue: 3
+    pages: 389-396
+    authorship: 第二作者
+    quartile: SCI Q1 Top
+    doi: null
+
+intellectual_property:
+  - type: 软件著作权
+    title: 肺腺癌转移风险评估与药物敏感性预测平台 V1.0
+    rights_holder: 第一权利人
+    registration_number: null
+  - type: 专利
+    title: 肺腺癌转录组双平台辅助判别系统
+    status: 申请中
+    application_number: null
+
+links:
+  github: null       # 待确认
+  website: null
+  orcid: null
+
+repo: https://github.com/yongruif533-tech/yongrui-brain
+updated: 2026-11-05

@@ -1,0 +1,13 @@
+# 隐私：本地敏感信息，绝不提交
+private/
+*.env
+.env.*
+
+# 简历原件（含联系方式）
+resume/*.pdf
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+.claude/settings.local.json
